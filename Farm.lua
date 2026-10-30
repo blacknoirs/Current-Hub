@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://currenthub.kdns.fr:20011/raw/publicfarm"))()
+loadstring(game:HttpGet("http://currenthub.kdns.fr:20011/loader/publicfarm"))()
